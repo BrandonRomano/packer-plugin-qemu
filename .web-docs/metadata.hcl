@@ -2,7 +2,7 @@
 # https://github.com/hashicorp/integration-template#metadata-configuration
 integration {
   name = "QEMU"
-  description = "TODO"
+  description = "The Qemu Packer Plugin comes with a single builder able to create KVM virtual machine images."
   identifier = "packer/BrandonRomano/qemu"
   component {
     type = "builder"
